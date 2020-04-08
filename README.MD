@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-  <a href="#rocket-technology">Technology</a>|
+  <a href="#rocket-technology">Technology </a>|
   <a href="#-project">Project</a>
 </p>
 
